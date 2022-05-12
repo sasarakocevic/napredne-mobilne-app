@@ -1,1 +1,0 @@
-# napredne-mobilne-app

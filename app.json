@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "HotelM",
+    "slug": "HotelM",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "HotelM"
+}
